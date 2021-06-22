@@ -1,6 +1,6 @@
 # quake
 
-A new Flutter project.
+A new Flutter project, which fetches earthquake information around the world.
 
 ## Getting Started
 
